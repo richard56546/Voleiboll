@@ -1,0 +1,89 @@
+body{
+    background-color: silver;
+}
+.x0{
+    width: 900px;
+    height: 3212px;
+    background-color: aliceblue;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.x1{
+    width: 205px;
+    height: 50px;
+    background-color: black;
+    font-family: 'Amatic SC', cursive;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.x2{
+ width: 580px;
+ height: 350px;
+ background-color: black;
+
+}
+.x3{
+    width: 300px;
+    height: 350px;
+    background-color: black
+    
+}
+.x4{
+    width: 280px;
+    height: 140px;
+    
+    margin-left: 590px;
+    color: black;
+}
+.x5{
+    width: 900px;
+    height: 350px;
+    background-color: black;
+}
+.x6{
+    width: 160px;
+    height: 160px;
+    background-color: black;
+    justify-content: space-around;
+}
+    
+.x7{
+    width: 570px;
+    height: 280px;
+    background-color: black;
+}
+.x8{
+    width: 280px;
+    height: 140px;
+   
+}
+.x9{
+    width: 310px;
+    height: 280px;
+  
+}
+.x10{
+    width: 570px;
+    height: 580px;
+    background-color: black;
+}
+.x11{
+    width: 280px;
+    height: 70px;
+    
+    margin-right: 250px;
+    margin-left: 250px
+}
+.x12{
+    width: 225px;
+    height: 225px;
+    background-color: black;
+    justify-content: space-around;
+}
+a{color: white;font-size: 20px;}
+a:link{text-decoration: none;}
+a:hover{color: yellow;}
